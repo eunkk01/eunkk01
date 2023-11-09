@@ -1,5 +1,3 @@
-<!--basic-->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Eunkyoung's%20Profile%20&fontSize=35&animation=fadeIn&fontAlignY=38&)
 <!--
  type=waving& //파도 모양
@@ -10,9 +8,9 @@
  fontSize=90&animation=fadeIn&fontAlignY=38& //글씨 크기와 애니메이션 설
  desc=Eunkyoung's%20GitHub%20Profile&descAlignY=51&descAlign=62 //desc에 추가 설명 -->
 
-<!--기술뱃지-->
 <div align="center">
  <h3>✨ Technology Stack ✨</h3>
+ <!--기술뱃지-->
  <p align="center">
    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>&nbsp
@@ -32,7 +30,7 @@
  <br><br>
 
  <!--프로필 요약--> 
- ![eunkk01's github stats](https://github-readme-stats.vercel.app/api?username=eunkk01&show_icons=true)
+ <!--![eunkk01's github stats](https://github-readme-stats.vercel.app/api?username=eunkk01&show_icons=true)-->
 
 </div>
 
