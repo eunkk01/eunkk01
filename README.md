@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--basic-->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Eunkyoung's%20GitHub%20Profile&fontSize=35&animation=fadeIn&fontAlignY=38&)
@@ -12,16 +10,12 @@ fontSize=90&animation=fadeIn&fontAlignY=38& //글씨 크기와 애니메이션 �
 desc=Eunkyoung's%20GitHub%20Profile&descAlignY=51&descAlign=62 //desc에 추가 설명-->
 
 <!--기술뱃지-->
-<center>
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-</center>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 <!--프로필 요약-->
-<center>
 ![eunkk01's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
-<center>
 
 <!--오늘방문자/총방문자-->
 <center>
