@@ -22,10 +22,12 @@ desc=Eunkyoung's%20GitHub%20Profile&descAlignY=51&descAlign=62 //desc에 추가 
 
 <h3 align="center">•••</h3>
 
+<br><br>
+
 <!--프로필 요약-->
-![eunkk01's github stats](https://github-readme-stats.vercel.app/api?username=seonghoo1217&show_icons=true)
+![eunkk01's github stats](https://github-readme-stats.vercel.app/api?username=eunkk01&show_icons=true)
+
+<br><br>
 
 <!--오늘방문자/총방문자-->
-<center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunkk01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<center>
